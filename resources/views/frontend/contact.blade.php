@@ -62,14 +62,13 @@
                         <h3 class="mb-4">Contact Details</h3>
                         <ul class="list-unstyled">
                             <li class="d-flex align-items-center" style="column-gap: 0.8rem">
-                                <i class="uil uil-map-marker fs-3"></i><span class="text-secondary">132 Bali,
-                                    Kutai,Indonesia</span>
+                                <i class="uil uil-map-marker fs-3"></i><span class="text-secondary">Jl. Raya Puspitek, Setu, Kec. Serpong, Kota Tangerang Selatan, Banten 15314</span>
                             </li>
                             <li class="d-flex align-items-center" style="column-gap: 0.8rem">
-                                <i class="uil uil-map-marker fs-3"></i><span class="text-secondary">hello@home.com</span>
+                                <i class="uil uil-map-marker fs-3"></i><span class="text-secondary">amanahlancarjaya@home.com</span>
                             </li>
                             <li class="d-flex align-items-center" style="column-gap: 0.8rem">
-                                <i class="uil uil-map-marker fs-3"></i><span class="text-secondary">214-805-4428</span>
+                                <i class="uil uil-map-marker fs-3"></i><span class="text-secondary">021-7561102</span>
                             </li>
                         </ul>
                         <span class="d-block text-secondary">Monday – Friday: 9 am – 5 pm</span>
