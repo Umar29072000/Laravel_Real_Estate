@@ -18,7 +18,7 @@
                     <div class="row text-center">
                         <div class="col">
                             <span class="fw-bold fs-1">350+</span> <br />
-                            <span class="text-secondary"> Properties Sold</span>
+                            <span class="text-secondary">Properties Sold</span>
                         </div>
                         <div class="col">
                             <span class="fw-bold fs-1">123+</span> <br />
