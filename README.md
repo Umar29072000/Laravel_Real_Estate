@@ -85,8 +85,8 @@ Silakan dibuka di <code>http://127.0.0.1:8000</code>
 
 
 ### Login
-Email = admin@example.com
-Password = 123
+- Email = admin@example.com
+- Password = 123
 
 
 ### Kontribusi
