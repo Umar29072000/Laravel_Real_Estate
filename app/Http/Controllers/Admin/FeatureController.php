@@ -35,7 +35,8 @@ class FeatureController extends Controller
 
     public function update(ValidateFeatureRequest $request,Property $property, Feature $feature): RedirectResponse
     {
-        $property->features()->update($request->validated());
+        // $property->features()->update($request->validated());
+        $feature->update($request->validated());
 
         return redirect()->route('admin.properties.edit', $property->id)->with([
             'message' => 'successfully updated !',
