@@ -93,7 +93,7 @@
                                 </li>
                             </ul>
                         </div>
-                        <a href="tel:{{ $property->agent->phone }}"
+                        <a href="https://wa.me/{{ preg_replace('/[^\d]/', '', $property->agent->phone) }}"
                             class="w-75 p-3 text-center mx-auto btn btn-primary">Get Property</a>
                     </div>
                 </div>
